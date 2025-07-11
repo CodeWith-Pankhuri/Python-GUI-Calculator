@@ -21,9 +21,6 @@ This project demonstrates basic arithmetic operations with a clean interface and
 - Tkinter (Standard Python GUI library)
 - .ico file for branding
 
----
-
 ## 📸 Screenshot
 
-```markdown
 ![Calculator Screenshot](screenshot.png)
